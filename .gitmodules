@@ -1,0 +1,3 @@
+[submodule "GodotRogueLib"]
+	path = GodotRogueLib
+	url = git@github.com:daniebker/GodotRogueLib.git
